@@ -2,4 +2,4 @@
 
 APK de prueba de Cuerpia para Android (móviles de 64 bits).
 
-Descarga: https://github.com/LightLeopard502-ui/cuerpia-descargas/raw/main/cuerpia.apk
+Descarga: https://github.com/LightLeopard502/cuerpia-descargas/raw/main/cuerpia.apk

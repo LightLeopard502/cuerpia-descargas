@@ -1,0 +1,2 @@
+Copia de prueba de la web (PR #15: pantalla de racha diaria). No es la web principal.
+Se puede borrar esta carpeta cuando la PR se fusione.
